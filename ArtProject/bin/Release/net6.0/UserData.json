@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Jane Smith",
+    "Age": 25,
+    "Email": "janesmith@example.com",
+    "Username": "janesmith",
+    "Password": "pass123"
+  },
+  {
+    "Name": "Alex Johnson",
+    "Age": 35,
+    "Email": "alexjohnson@example.com",
+    "Username": "alexjohnson",
+    "Password": "securepass"
+  },
+  {
+    "Name": "deneme",
+    "Age": 0,
+    "Email": "afsg",
+    "Username": "aaa",
+    "Password": "aaa"
+  }
+
+]

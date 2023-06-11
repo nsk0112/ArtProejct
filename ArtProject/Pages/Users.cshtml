@@ -1,0 +1,16 @@
+﻿@page
+@model ArtProject.Pages.UsersModel
+@{
+}
+
+<div style="margin:100px">
+    <h1>Users</h1>
+
+    <ul>
+        @foreach (var item in Model.UsersListing)
+        {
+            <li style="color:white">username: @item.Username</li>
+            <li style="color:white">password: @item.Password</li>
+        }
+    </ul>
+</div>

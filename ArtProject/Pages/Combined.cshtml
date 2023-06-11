@@ -1,0 +1,11 @@
+@page
+@model ArtProject.Pages.CombinedModel
+@{
+    ViewData["Title"] = "Combined";
+}
+
+<h1>Combined</h1>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

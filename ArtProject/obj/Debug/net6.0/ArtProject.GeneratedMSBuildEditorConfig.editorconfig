@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ArtProject
+build_property.RootNamespace = ArtProject
+build_property.ProjectDir = /Users/asli/Downloads/ArtProject-master/ArtProject/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/asli/Downloads/ArtProject-master/ArtProject
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Combined.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tYmluZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Exhibitions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhoaWJpdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/SetProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2V0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/asli/Downloads/ArtProject-master/ArtProject/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-317qm4u6gl
