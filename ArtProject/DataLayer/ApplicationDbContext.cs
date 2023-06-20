@@ -10,6 +10,8 @@ namespace ArtProject.DataLayer
             
         }
 
+        public DbSet<UserExhModel> UserExhTable { get; set; }
         public DbSet<UserModel> TableUnitMaster { get; set; }
+        
     }
 }

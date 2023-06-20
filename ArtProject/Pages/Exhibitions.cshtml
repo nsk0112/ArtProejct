@@ -18,11 +18,21 @@
                                 </div>
                                 <div class="owl-features owl-carousel">
                                     @for (int i = 0; i < 6; i++)
-                                    {
-                                        var item = @Model.exhData.data[i % 3];
+                                        {
+                                            var item = @Model.exhData.data[i];
+                                            if (String.IsNullOrEmpty(item.gallery_title))
+                                                item.gallery_title = "Gallery 404";
                                         <div class="item">
                                             <div class="thumb">
-                                                <img src="@item.image_url" alt="" height="250">
+                                                @if (User.Identity.Name != null)
+                                                {
+                                                    <a href="/Ticket/?id=@item.id"><img src="@item.image_url" alt="" height="250"></a>
+                                                }
+                                                else
+                                                {
+                                                    <a href="/Profile"><img src="@item.image_url" alt="" height="250"></a>
+                                                }
+
                                                 <div class="hover-effect">
                                                     <h6>@item.title</h6>
                                                 </div>

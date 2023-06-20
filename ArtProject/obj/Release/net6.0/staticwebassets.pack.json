@@ -1,495 +1,499 @@
 {
   "Files": [
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/obj/Release/net6.0/scopedcss/projectbundle/ArtProject.bundle.scp.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/obj/Release/net6.0/scopedcss/projectbundle/ArtProject.bundle.scp.css",
       "PackagePath": "staticwebassets/ArtProject.bundle.scp.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/.DS_Store",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/css/animate.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/css/animate.css",
       "PackagePath": "staticwebassets/css/animate.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/css/flex-slider.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/css/flex-slider.css",
       "PackagePath": "staticwebassets/css/flex-slider.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/css/fontawesome.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/css/fontawesome.css",
       "PackagePath": "staticwebassets/css/fontawesome.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/css/owl.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/css/owl.css",
       "PackagePath": "staticwebassets/css/owl.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/css/site.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/css/templatemo-cyborg-gaming.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/css/templatemo-cyborg-gaming.css",
       "PackagePath": "staticwebassets/css/templatemo-cyborg-gaming.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/favicon.ico",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/avatar-01.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/avatar-01.jpg",
       "PackagePath": "staticwebassets/images/avatar-01.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/avatar-02.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/avatar-02.jpg",
       "PackagePath": "staticwebassets/images/avatar-02.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/avatar-03.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/avatar-03.jpg",
       "PackagePath": "staticwebassets/images/avatar-03.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/avatar-04.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/avatar-04.jpg",
       "PackagePath": "staticwebassets/images/avatar-04.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/banner-bg.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/banner-bg.jpg",
       "PackagePath": "staticwebassets/images/banner-bg.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/clip-01.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/clip-01.jpg",
       "PackagePath": "staticwebassets/images/clip-01.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/clip-02.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/clip-02.jpg",
       "PackagePath": "staticwebassets/images/clip-02.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/clip-03.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/clip-03.jpg",
       "PackagePath": "staticwebassets/images/clip-03.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/clip-04.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/clip-04.jpg",
       "PackagePath": "staticwebassets/images/clip-04.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/details-01.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/details-01.jpg",
       "PackagePath": "staticwebassets/images/details-01.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/details-02.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/details-02.jpg",
       "PackagePath": "staticwebassets/images/details-02.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/details-03.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/details-03.jpg",
       "PackagePath": "staticwebassets/images/details-03.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/feature-left.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/feature-left.jpg",
       "PackagePath": "staticwebassets/images/feature-left.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/feature-right.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/feature-right.jpg",
       "PackagePath": "staticwebassets/images/feature-right.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/featured-01.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/featured-01.jpg",
       "PackagePath": "staticwebassets/images/featured-01.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/featured-02.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/featured-02.jpg",
       "PackagePath": "staticwebassets/images/featured-02.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/featured-03.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/featured-03.jpg",
       "PackagePath": "staticwebassets/images/featured-03.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/game-01.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/game-01.jpg",
       "PackagePath": "staticwebassets/images/game-01.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/game-02.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/game-02.jpg",
       "PackagePath": "staticwebassets/images/game-02.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/game-03.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/game-03.jpg",
       "PackagePath": "staticwebassets/images/game-03.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/logo.png",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/logo.png",
       "PackagePath": "staticwebassets/images/logo.png"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/popular-01.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/popular-01.jpg",
       "PackagePath": "staticwebassets/images/popular-01.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/popular-02.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/popular-02.jpg",
       "PackagePath": "staticwebassets/images/popular-02.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/popular-03.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/popular-03.jpg",
       "PackagePath": "staticwebassets/images/popular-03.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/popular-04.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/popular-04.jpg",
       "PackagePath": "staticwebassets/images/popular-04.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/popular-05.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/popular-05.jpg",
       "PackagePath": "staticwebassets/images/popular-05.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/popular-06.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/popular-06.jpg",
       "PackagePath": "staticwebassets/images/popular-06.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/popular-07.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/popular-07.jpg",
       "PackagePath": "staticwebassets/images/popular-07.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/popular-08.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/popular-08.jpg",
       "PackagePath": "staticwebassets/images/popular-08.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/profile-header.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/profile-header.jpg",
       "PackagePath": "staticwebassets/images/profile-header.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/profile.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/profile.jpg",
       "PackagePath": "staticwebassets/images/profile.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/service-01.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/profile2.jpg",
+      "PackagePath": "staticwebassets/images/profile2.jpg"
+    },
+    {
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/service-01.jpg",
       "PackagePath": "staticwebassets/images/service-01.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/service-02.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/service-02.jpg",
       "PackagePath": "staticwebassets/images/service-02.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/service-03.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/service-03.jpg",
       "PackagePath": "staticwebassets/images/service-03.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/stream-01.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/stream-01.jpg",
       "PackagePath": "staticwebassets/images/stream-01.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/stream-02.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/stream-02.jpg",
       "PackagePath": "staticwebassets/images/stream-02.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/stream-03.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/stream-03.jpg",
       "PackagePath": "staticwebassets/images/stream-03.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/stream-04.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/stream-04.jpg",
       "PackagePath": "staticwebassets/images/stream-04.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/stream-05.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/stream-05.jpg",
       "PackagePath": "staticwebassets/images/stream-05.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/stream-06.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/stream-06.jpg",
       "PackagePath": "staticwebassets/images/stream-06.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/stream-07.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/stream-07.jpg",
       "PackagePath": "staticwebassets/images/stream-07.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/images/stream-08.jpg",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/images/stream-08.jpg",
       "PackagePath": "staticwebassets/images/stream-08.jpg"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/js/custom.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/js/custom.js",
       "PackagePath": "staticwebassets/js/custom.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/js/isotope.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/js/isotope.js",
       "PackagePath": "staticwebassets/js/isotope.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/js/isotope.min.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/js/isotope.min.js",
       "PackagePath": "staticwebassets/js/isotope.min.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/js/owl-carousel.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/js/owl-carousel.js",
       "PackagePath": "staticwebassets/js/owl-carousel.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/js/popup.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/js/popup.js",
       "PackagePath": "staticwebassets/js/popup.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/js/site.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/js/tabs.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/js/tabs.js",
       "PackagePath": "staticwebassets/js/tabs.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/webfonts/fa-brands-400.ttf",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/webfonts/fa-brands-400.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-brands-400.ttf"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/webfonts/fa-brands-400.woff2",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/webfonts/fa-brands-400.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff2"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/webfonts/fa-regular-400.ttf",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/webfonts/fa-regular-400.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-regular-400.ttf"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/webfonts/fa-regular-400.woff2",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/webfonts/fa-regular-400.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff2"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/webfonts/fa-solid-900.ttf",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/webfonts/fa-solid-900.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-solid-900.ttf"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/webfonts/fa-solid-900.woff2",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/webfonts/fa-solid-900.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff2"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/webfonts/fa-v4compatibility.ttf",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/webfonts/fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets/webfonts/fa-v4compatibility.ttf"
     },
     {
-      "Id": "/Users/asli/Downloads/ArtProject-master/ArtProject/wwwroot/webfonts/fa-v4compatibility.woff2",
+      "Id": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/wwwroot/webfonts/fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets/webfonts/fa-v4compatibility.woff2"
     },
     {

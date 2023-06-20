@@ -51,5 +51,15 @@ namespace ArtProject.Services
             return exhdata;
 
         }
+
+        public SingleExhModel GetSingleExhibition(int id)
+        {
+            string url = string.Concat("https://api.artic.edu/api/v1/exhibitions/", id);
+            var json = new WebClient().DownloadString(url);
+            Console.WriteLine(id);
+            SingleExhModel singleexh = JsonSerializer.Deserialize<SingleExhModel>(json); 
+
+            return singleexh;
+        }
     }
 }

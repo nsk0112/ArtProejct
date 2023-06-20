@@ -58,6 +58,7 @@ namespace ArtProject.Pages
             exhData = artService.GetExhibitionModel();
             for (int i = 0; i < exhData.pagination.limit; i++)
             {
+                
                 var doc = new HtmlParser();
                 if (!string.IsNullOrEmpty(exhData.data[i].short_description))
                     exhData.data[i].short_description = Regex.Replace(exhData.data[i].short_description, @"<[^>]*>", String.Empty);

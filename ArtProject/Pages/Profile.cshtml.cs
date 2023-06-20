@@ -52,7 +52,7 @@ namespace ArtProject.Pages
         //    Console.WriteLine(deletedData.Count);
 
         //    var updatedJson = JsonSerializer.Serialize(deletedData);
-            
+
         //    //System.IO.File.WriteAllText(jsonData, updatedJson);
 
 
@@ -91,6 +91,16 @@ namespace ArtProject.Pages
 
         [BindProperty]
         public ExhibitionModel exhData { get; set; }
+
+        [BindProperty]
+        public IEnumerable<UserExhModel> UsersExh { get; set; }
+
+        [BindProperty]
+        public List<SingleExhModel> Exh { get; set; }
+
+        [BindProperty]
+        public List<SingleExhModel> ExhList { get; set; }
+
         public void OnGet(ArtService artService)
         {
             ////isLogged = false;
@@ -109,18 +119,45 @@ namespace ArtProject.Pages
 
 
             UsersListing = _db.TableUnitMaster;
+            UsersExh = _db.UserExhTable;
+            Console.WriteLine("xxx");
+
             string receivedValue = TempData["MyValue"] as string;
 
             if (receivedValue != null && userLogged == null)
             {
                 isLogged = true;
-                
+
 
                 userLogged = UsersListing.Where(user => user.Username.Equals(receivedValue)).ToList()[0];
                 Console.WriteLine(userLogged.Username);
                 //TempData.Remove("MyValue");
+
+                ExhList = new List<SingleExhModel>();
+
+                
+
+                Console.WriteLine(ExhList.Count);
                 exhData = artService.GetExhibitionModel();
             }
+
+            if(User.Identity.Name != null)
+            {
+                Console.WriteLine("aaaaa");
+                for (var i = 0; i < UsersExh.Count(); i++)
+                {
+                    if (UsersExh.ElementAt(i).Username == User.Identity.Name)
+                    {
+                        if (artService.GetSingleExhibition(Int32.Parse(UsersExh.ElementAt(i).ExhId)) != null)
+                        {
+                            ExhList.Add(artService.GetSingleExhibition(Int32.Parse(UsersExh.ElementAt(i).ExhId)));
+                        }
+                    }
+                }
+                Console.WriteLine(ExhList.Count);
+            }
+
+            else { Console.WriteLine("else"); }
 
         }
 
